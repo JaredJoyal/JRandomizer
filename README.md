@@ -1,4 +1,4 @@
-# JRandomizer
+# ![JRandomizer](logo.png)
 A Minecraft Forge mod focused on randomizing item drops
 
 ## Features (per v1.2.1)
@@ -18,3 +18,6 @@ A Minecraft Forge mod focused on randomizing item drops
 
 ## Download
 [Click here to download from CurseForge!](https://www.curseforge.com/minecraft/mc-mods/jrandomizer)
+
+## Screenshots
+<img src="screenshots/javaw_Xr26fDjEYZ.png" alt="What a mess!" width="400"/> <img src="screenshots/javaw_7wwHL0xLVJ.png" alt="A true survival challenge" width="400"/>
